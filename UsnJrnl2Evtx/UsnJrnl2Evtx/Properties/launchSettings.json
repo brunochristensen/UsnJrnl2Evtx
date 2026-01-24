@@ -1,7 +1,7 @@
 ﻿{
-  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "$schema": "https://json.schemastore.org/launchsettings.json",
   "profiles": {
-    "UsnJrnlSvc": {
+    "UsnJrnl2Evtx": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "environmentVariables": {
